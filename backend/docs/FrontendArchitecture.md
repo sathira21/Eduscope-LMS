@@ -1,0 +1,2 @@
+# Eduscope LMS Frontend Architecture
+

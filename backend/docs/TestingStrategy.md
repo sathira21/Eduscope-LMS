@@ -1,0 +1,2 @@
+# Eduscope LMS Testing Strategy
+
