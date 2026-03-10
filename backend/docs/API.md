@@ -2,3 +2,6 @@
 
 This document provides a detailed reference for all the API endpoints available in the Eduscope LMS backend.
 
+## Authentication
+
+### POST /api/auth/register
