@@ -4,3 +4,5 @@ This guide is for developers who want to contribute to the Eduscope LMS codebase
 
 ## 🏗 System Architecture
 
+The project follows a modular structure to separate concerns between the frontend, backend, and database.
+

@@ -4,3 +4,5 @@ This document serves as the absolute source of truth for all technical specifica
 
 ## 🏛 Core Business Rules
 
+### 1. Quiz Lifecycle
+- **Draft**: Newly created quizzes are in draft mode and invisible to students.
