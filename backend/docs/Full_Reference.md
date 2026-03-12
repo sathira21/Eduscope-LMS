@@ -6,3 +6,6 @@ This document serves as the absolute source of truth for all technical specifica
 
 ### 1. Quiz Lifecycle
 - **Draft**: Newly created quizzes are in draft mode and invisible to students.
+- **Published**: Quizzes accessible to students based on their enrollment and the quiz's `dueDate`.
+- **Archived**: Quizzes that are no longer active but retained for historical analytics.
+

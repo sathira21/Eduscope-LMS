@@ -6,3 +6,5 @@ This guide provides step-by-step instructions for deploying the Eduscope LMS to 
 
 The project is designed to be easily deployable using modern containerization and cloud platforms.
 
+### Target Environments
+- **Staging**: Used for final testing and walkthroughs.

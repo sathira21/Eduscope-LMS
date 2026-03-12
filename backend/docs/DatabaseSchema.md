@@ -5,3 +5,6 @@ This document provides a detailed breakdown of the MongoDB collections and their
 ## Collections Overview
 
 ### 1. Users
+Stores information about students, teachers, and admins.
+- `name`: String, required.
+- `email`: String, required, unique.

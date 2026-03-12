@@ -4,3 +4,5 @@ This document explains the core architectural principles and technical decisions
 
 ## 🏗 Modular Monolith Pattern
 
+The project is structured as a modular monolith to balance development speed with logical separation.
+

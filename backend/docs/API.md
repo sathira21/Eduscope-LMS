@@ -8,3 +8,6 @@ This document provides a detailed reference for all the API endpoints available 
 Register a new user.
 - **Roles**: student, teacher, admin
 - **Body**: `{ name, email, password, role }`
+
+### POST /api/auth/login
+Log in an existing user.
