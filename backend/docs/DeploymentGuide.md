@@ -8,3 +8,5 @@ The project is designed to be easily deployable using modern containerization an
 
 ### Target Environments
 - **Staging**: Used for final testing and walkthroughs.
+- **Production**: Accessible to all students and teachers.
+

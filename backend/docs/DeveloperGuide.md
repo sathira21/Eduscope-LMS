@@ -9,3 +9,6 @@ The project follows a modular structure to separate concerns between the fronten
 ### Backend Structure
 - `controllers/`: Handles the business logic for each route.
 - `models/`: Defines Mongoose schemas for data storage.
+- `routes/`: Maps API endpoints to controller functions.
+- `middleware/`: Contains authentication, RBAC, and error handling logic.
+- `docs/`: Holds technical and user documentation.

@@ -9,3 +9,5 @@ This document serves as the absolute source of truth for all technical specifica
 - **Published**: Quizzes accessible to students based on their enrollment and the quiz's `dueDate`.
 - **Archived**: Quizzes that are no longer active but retained for historical analytics.
 
+### 2. Grading Algorithms
+- **Standard MCQ**: `Points = (IsCorrect ? BasePoints : 0)`.

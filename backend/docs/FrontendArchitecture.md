@@ -6,3 +6,5 @@ This document provides a technical overview of the React frontend architecture f
 
 We use a custom design system built on top of Tailwind CSS for consistent styling across all user-facing pages.
 
+### Core Principles
+- **Clarity**: High contrast and readable typography.
