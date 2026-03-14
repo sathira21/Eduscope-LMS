@@ -10,3 +10,5 @@ Stores information about students, teachers, and admins.
 - `email`: String, required, unique.
 - `password`: String, required (hashed).
 - `role`: String, enum: ['student', 'teacher', 'admin'], default: 'student'.
+- `studentId`: String, unique (for students).
+- `isActive`: Boolean, default: true.

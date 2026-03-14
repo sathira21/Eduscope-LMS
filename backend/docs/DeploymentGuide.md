@@ -10,3 +10,6 @@ The project is designed to be easily deployable using modern containerization an
 - **Staging**: Used for final testing and walkthroughs.
 - **Production**: Accessible to all students and teachers.
 
+## 🛠 Prerequisites
+- **Node.js**: v18+
+- **MongoDB**: Atlas or a local instance version 5.0+.

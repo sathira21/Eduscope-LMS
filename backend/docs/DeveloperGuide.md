@@ -12,3 +12,5 @@ The project follows a modular structure to separate concerns between the fronten
 - `routes/`: Maps API endpoints to controller functions.
 - `middleware/`: Contains authentication, RBAC, and error handling logic.
 - `docs/`: Holds technical and user documentation.
+
+### Frontend Structure

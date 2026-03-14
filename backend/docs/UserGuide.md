@@ -9,3 +9,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 - **Profile**: Update your personal information and profile picture.
 
 ### 2. Taking Quizzes
+- **Browsing**: Explore quizzes by subject or module.
+- **Starting a Quiz**: Click "Start Quiz" and read the instructions.

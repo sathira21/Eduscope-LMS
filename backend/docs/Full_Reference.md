@@ -11,3 +11,6 @@ This document serves as the absolute source of truth for all technical specifica
 
 ### 2. Grading Algorithms
 - **Standard MCQ**: `Points = (IsCorrect ? BasePoints : 0)`.
+- **Negative Marking (Optional)**: `Points = (IsCorrect ? BasePoints : -PenaltyPoints)`.
+- **Weighted Questions**: Specific questions can have different point values.
+

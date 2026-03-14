@@ -7,3 +7,5 @@ This document explains the core architectural principles and technical decisions
 The project is structured as a modular monolith to balance development speed with logical separation.
 
 ### Advantages
+- **Shared Memory**: Faster communication between modules than microservices.
+- **Simplified Deployment**: All services are packaged and deployed together.

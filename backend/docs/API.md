@@ -14,3 +14,7 @@ Log in an existing user.
 - **Body**: `{ email, password }`
 - **Response**: `{ success, token, user }`
 
+---
+
+## Quizzes
+
