@@ -14,3 +14,6 @@ The project follows a modular structure to separate concerns between the fronten
 - `docs/`: Holds technical and user documentation.
 
 ### Frontend Structure
+- `src/components/`: Reusable UI elements.
+- `src/pages/`: Main view components for different routes.
+- `src/services/`: API communication layer.

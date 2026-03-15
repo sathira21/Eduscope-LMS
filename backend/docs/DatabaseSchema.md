@@ -12,3 +12,6 @@ Stores information about students, teachers, and admins.
 - `role`: String, enum: ['student', 'teacher', 'admin'], default: 'student'.
 - `studentId`: String, unique (for students).
 - `isActive`: Boolean, default: true.
+- `lastLogin`: Date.
+
+### 2. Quizzes

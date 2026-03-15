@@ -18,3 +18,6 @@ Log in an existing user.
 
 ## Quizzes
 
+### GET /api/quiz
+Get all quizzes (filtered by role and permissions).
+- **Query Params**: `subject, module, search, filter, page, limit`

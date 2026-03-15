@@ -9,3 +9,5 @@ The project is structured as a modular monolith to balance development speed wit
 ### Advantages
 - **Shared Memory**: Faster communication between modules than microservices.
 - **Simplified Deployment**: All services are packaged and deployed together.
+- **Data Consistency**: Direct database access with atomic transactions within a single service.
+

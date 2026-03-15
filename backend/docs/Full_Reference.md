@@ -14,3 +14,5 @@ This document serves as the absolute source of truth for all technical specifica
 - **Negative Marking (Optional)**: `Points = (IsCorrect ? BasePoints : -PenaltyPoints)`.
 - **Weighted Questions**: Specific questions can have different point values.
 
+### 3. Progress Calculation
+- **Lesson Completion**: `(MaterialsViewed / TotalMaterials) * 100`.

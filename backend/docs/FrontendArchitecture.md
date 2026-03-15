@@ -10,3 +10,5 @@ We use a custom design system built on top of Tailwind CSS for consistent stylin
 - **Clarity**: High contrast and readable typography.
 - **Hierarchy**: Clear visual distinctions between different types of information.
 - **Consistency**: Reusable components for common UI patterns.
+
+## 📁 Component Organization

@@ -13,3 +13,5 @@ The project is designed to be easily deployable using modern containerization an
 ## 🛠 Prerequisites
 - **Node.js**: v18+
 - **MongoDB**: Atlas or a local instance version 5.0+.
+- **NPM**: v8+
+
