@@ -15,3 +15,5 @@ Stores information about students, teachers, and admins.
 - `lastLogin`: Date.
 
 ### 2. Quizzes
+Stores quiz definitions and questions.
+- `title`: String, required.

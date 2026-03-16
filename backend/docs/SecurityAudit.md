@@ -9,3 +9,4 @@ This document outlines the security measures implemented in the Eduscope LMS and
 - **BCrypt**: Industry-standard hashing for all user passwords.
 - **RBAC**: Strict role-based access control implemented on both frontend and backend.
 
+### 2. Data Integrity

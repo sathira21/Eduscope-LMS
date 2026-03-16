@@ -16,3 +16,6 @@ This document serves as the absolute source of truth for all technical specifica
 
 ### 3. Progress Calculation
 - **Lesson Completion**: `(MaterialsViewed / TotalMaterials) * 100`.
+- **Course Grade**: `(AverageQuizScore * 0.7) + (EngagementRate * 0.3)`.
+
+---

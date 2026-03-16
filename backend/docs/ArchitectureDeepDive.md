@@ -11,3 +11,5 @@ The project is structured as a modular monolith to balance development speed wit
 - **Simplified Deployment**: All services are packaged and deployed together.
 - **Data Consistency**: Direct database access with atomic transactions within a single service.
 
+### Module Breakdown
+- **Identity & Access Management (IAM)**: Handles authentication, session management, and role-based permissions.

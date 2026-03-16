@@ -21,3 +21,6 @@ Log in an existing user.
 ### GET /api/quiz
 Get all quizzes (filtered by role and permissions).
 - **Query Params**: `subject, module, search, filter, page, limit`
+
+### GET /api/quiz/:id
+Get a specific quiz.

@@ -13,3 +13,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 - **Starting a Quiz**: Click "Start Quiz" and read the instructions.
 - **Timer**: Keep an eye on the countdown timer.
 - **Submission**: Review your answers before clicking "Submit".
+
+### 3. Understanding Results

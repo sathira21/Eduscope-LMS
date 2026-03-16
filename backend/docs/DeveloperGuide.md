@@ -17,3 +17,6 @@ The project follows a modular structure to separate concerns between the fronten
 - `src/components/`: Reusable UI elements.
 - `src/pages/`: Main view components for different routes.
 - `src/services/`: API communication layer.
+- `src/hooks/`: Custom React hooks for shared logic.
+
+## 🛠 Development Workflow
