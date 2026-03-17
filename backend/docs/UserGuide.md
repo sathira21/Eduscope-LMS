@@ -15,3 +15,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 - **Submission**: Review your answers before clicking "Submit".
 
 ### 3. Understanding Results
+- **Score Breakdown**: See which questions you got right.
+- **Explanations**: Read the detailed feedback for each question.

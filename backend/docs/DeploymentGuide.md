@@ -17,3 +17,6 @@ The project is designed to be easily deployable using modern containerization an
 
 ## 🚢 Deployment Steps
 
+### 1. Build the Frontend
+```bash
+cd frontend

@@ -24,3 +24,6 @@ Get all quizzes (filtered by role and permissions).
 
 ### GET /api/quiz/:id
 Get a specific quiz.
+- **Permissions**: All authenticated users (students see restricted views if not attempted).
+
+### POST /api/quiz

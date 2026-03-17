@@ -13,3 +13,5 @@ We use a custom design system built on top of Tailwind CSS for consistent stylin
 
 ## 📁 Component Organization
 
+Components are organized by their scope and purpose.
+

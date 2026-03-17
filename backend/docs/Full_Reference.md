@@ -19,3 +19,6 @@ This document serves as the absolute source of truth for all technical specifica
 - **Course Grade**: `(AverageQuizScore * 0.7) + (EngagementRate * 0.3)`.
 
 ---
+
+## 📡 Exhaustive API Endpoint Reference (v1.1)
+

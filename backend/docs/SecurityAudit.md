@@ -10,3 +10,5 @@ This document outlines the security measures implemented in the Eduscope LMS and
 - **RBAC**: Strict role-based access control implemented on both frontend and backend.
 
 ### 2. Data Integrity
+- **Mongoose Validation**: Ensures all data entering the DB meets specified criteria.
+- **JSR (JSON Schema Validation)**: Secondary validation layer for incoming requests.
