@@ -14,3 +14,5 @@ The project is structured as a modular monolith to balance development speed wit
 ### Module Breakdown
 - **Identity & Access Management (IAM)**: Handles authentication, session management, and role-based permissions.
 - **Quiz Management Service**: Manages quiz entities, question logic, and content lifecycle.
+- **Reporting & Analytics**: Processes raw attempt data into meaningful insights for teachers and administrators.
+- **Learning Material Module**: Manages educational resources and student engagement metrics.

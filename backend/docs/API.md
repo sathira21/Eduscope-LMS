@@ -27,3 +27,6 @@ Get a specific quiz.
 - **Permissions**: All authenticated users (students see restricted views if not attempted).
 
 ### POST /api/quiz
+Create a new quiz.
+- **Roles**: admin, teacher
+- **Body**:

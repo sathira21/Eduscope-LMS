@@ -12,3 +12,4 @@ This document outlines the security measures implemented in the Eduscope LMS and
 ### 2. Data Integrity
 - **Mongoose Validation**: Ensures all data entering the DB meets specified criteria.
 - **JSR (JSON Schema Validation)**: Secondary validation layer for incoming requests.
+

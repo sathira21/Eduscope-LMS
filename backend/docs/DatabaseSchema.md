@@ -19,3 +19,5 @@ Stores quiz definitions and questions.
 - `title`: String, required.
 - `description`: String.
 - `subject`: String.
+- `module`: String.
+- `questions`: Array of objects.

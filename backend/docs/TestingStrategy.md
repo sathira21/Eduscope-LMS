@@ -10,3 +10,5 @@ Our testing strategy follows the standard testing pyramid, prioritizing fast-run
 - **Focus**: Testing individual functions, utility methods, and isolated components.
 - **Tool**: Jest for backend, Vitest for frontend.
 - **Goal**: 100% coverage of core business logic.
+
+### 2. Integration Testing

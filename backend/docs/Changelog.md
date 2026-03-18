@@ -7,3 +7,4 @@
 - **Offline Access**: Allow students to download quizzes for offline completion.
 
 ### Q3 2026
+- **AI-Driven Personalization**: Recommend quizzes and materials based on student performance.

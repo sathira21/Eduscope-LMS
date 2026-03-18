@@ -22,3 +22,5 @@ This document serves as the absolute source of truth for all technical specifica
 
 ## 📡 Exhaustive API Endpoint Reference (v1.1)
 
+### Authentication
+- `POST /api/auth/register`: Register user.

@@ -20,3 +20,5 @@ The project is designed to be easily deployable using modern containerization an
 ### 1. Build the Frontend
 ```bash
 cd frontend
+npm install
+npm run build

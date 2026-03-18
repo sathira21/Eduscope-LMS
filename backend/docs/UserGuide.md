@@ -17,3 +17,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 ### 3. Understanding Results
 - **Score Breakdown**: See which questions you got right.
 - **Explanations**: Read the detailed feedback for each question.
+- **Analytics**: Track your performance over time with visual charts.
+

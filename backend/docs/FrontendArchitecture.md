@@ -15,3 +15,5 @@ We use a custom design system built on top of Tailwind CSS for consistent stylin
 
 Components are organized by their scope and purpose.
 
+- **Layouts/**: Wrapper components for global structures like headers and sidebars.
+- **Common/**: Generic, highly reusable components like `Button`, `Card`, `Modal`, and `Badge`.

@@ -22,3 +22,6 @@ The project follows a modular structure to separate concerns between the fronten
 ## 🛠 Development Workflow
 
 1. **Feature Branching**: Always create a new branch for a feature or bug fix.
+   ```bash
+   git checkout -b feature/cool-new-thing
+   ```
