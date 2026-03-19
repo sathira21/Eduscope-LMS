@@ -25,3 +25,6 @@ The project follows a modular structure to separate concerns between the fronten
    ```bash
    git checkout -b feature/cool-new-thing
    ```
+2. **Linting**: Run ESLint to ensure code quality.
+3. **Pre-commit Hooks**: We use Husky for automatic linting before each commit.
+

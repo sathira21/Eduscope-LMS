@@ -22,3 +22,6 @@ The project is designed to be easily deployable using modern containerization an
 cd frontend
 npm install
 npm run build
+```
+This generates the static files in the `/dist` directory.
+

@@ -13,3 +13,5 @@ This document outlines the security measures implemented in the Eduscope LMS and
 - **Mongoose Validation**: Ensures all data entering the DB meets specified criteria.
 - **JSR (JSON Schema Validation)**: Secondary validation layer for incoming requests.
 
+### 3. Attack Prevention
+- **XSS Prevention**: Automatic sanitization of user-generated content in the React frontend.

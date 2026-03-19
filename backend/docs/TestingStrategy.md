@@ -12,3 +12,4 @@ Our testing strategy follows the standard testing pyramid, prioritizing fast-run
 - **Goal**: 100% coverage of core business logic.
 
 ### 2. Integration Testing
+- **Focus**: Testing the interaction between multiple modules (e.g., Controller + Model + DB).

@@ -21,3 +21,6 @@ Stores quiz definitions and questions.
 - `subject`: String.
 - `module`: String.
 - `questions`: Array of objects.
+    - `question`: String, required.
+    - `type`: String, enum: ['mcq', 'true_false', 'short_answer'].
+    - `options`: Array of Strings (for MCQs).

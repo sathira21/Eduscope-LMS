@@ -30,3 +30,7 @@ Get a specific quiz.
 Create a new quiz.
 - **Roles**: admin, teacher
 - **Body**:
+  ```json
+  {
+    "title": "Introduction to Web Development",
+    "description": "Basics of HTML, CSS, and JS",

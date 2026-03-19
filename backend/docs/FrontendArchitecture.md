@@ -17,3 +17,5 @@ Components are organized by their scope and purpose.
 
 - **Layouts/**: Wrapper components for global structures like headers and sidebars.
 - **Common/**: Generic, highly reusable components like `Button`, `Card`, `Modal`, and `Badge`.
+- **Features/**: Business-specific components grouped by functionality (e.g., `QuizPlayer`, `StudentChart`).
+- **Pages/**: View components that map directly to application routes.
