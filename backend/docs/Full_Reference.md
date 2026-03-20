@@ -27,3 +27,5 @@ This document serves as the absolute source of truth for all technical specifica
 - `POST /api/auth/login`: Authenticate and receive JWT.
 - `GET /api/auth/profile`: Get current user details.
 - `PUT /api/auth/profile`: Update personal info.
+- `DELETE /api/auth/profile/deactivate`: Deactivate account.
+

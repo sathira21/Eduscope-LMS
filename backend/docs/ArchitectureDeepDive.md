@@ -18,3 +18,5 @@ The project is structured as a modular monolith to balance development speed wit
 - **Learning Material Module**: Manages educational resources and student engagement metrics.
 
 ## 📡 API Design Philosophy
+
+We follow RESTful design principles for all our endpoints.

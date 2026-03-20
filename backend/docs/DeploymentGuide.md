@@ -25,3 +25,5 @@ npm run build
 ```
 This generates the static files in the `/dist` directory.
 
+### 2. Prepare the Backend
+```bash

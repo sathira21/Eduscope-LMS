@@ -34,3 +34,6 @@ Create a new quiz.
   {
     "title": "Introduction to Web Development",
     "description": "Basics of HTML, CSS, and JS",
+    "subject": "Computing",
+    "module": "Web Design",
+    "questions": [

@@ -24,3 +24,5 @@ Stores quiz definitions and questions.
     - `question`: String, required.
     - `type`: String, enum: ['mcq', 'true_false', 'short_answer'].
     - `options`: Array of Strings (for MCQs).
+    - `correctAnswer`: String.
+    - `explanation`: String.
