@@ -16,3 +16,5 @@ This document outlines the security measures implemented in the Eduscope LMS and
 ### 3. Attack Prevention
 - **XSS Prevention**: Automatic sanitization of user-generated content in the React frontend.
 - **CSRF Protection**: Tokens used for state-changing requests.
+- **NoSQL Injection**: Parameterized queries using Mongoose models.
+

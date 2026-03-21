@@ -14,3 +14,5 @@ Our testing strategy follows the standard testing pyramid, prioritizing fast-run
 ### 2. Integration Testing
 - **Focus**: Testing the interaction between multiple modules (e.g., Controller + Model + DB).
 - **Tool**: Supertest for API integration testing.
+
+### 3. End-to-End (E2E) Testing

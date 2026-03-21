@@ -10,3 +10,4 @@
 - **AI-Driven Personalization**: Recommend quizzes and materials based on student performance.
 - **Live Classroom Integration**: Real-time video lectures and chat.
 
+---

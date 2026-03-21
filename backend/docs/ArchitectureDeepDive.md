@@ -20,3 +20,4 @@ The project is structured as a modular monolith to balance development speed wit
 ## 📡 API Design Philosophy
 
 We follow RESTful design principles for all our endpoints.
+

@@ -37,3 +37,6 @@ Create a new quiz.
     "subject": "Computing",
     "module": "Web Design",
     "questions": [
+      {
+        "question": "What does HTML stand for?",
+        "type": "mcq",

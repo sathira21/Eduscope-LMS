@@ -24,3 +24,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 ### 1. Managing Quizzes
 - **Creation**: Use the "Create Quiz" button and fill in properties like title, subject, and time limit.
 - **Questions**: Add varied question types (MCQs, T/F, etc.).
+- **Publishing**: Keep quizzes in "Draft" mode until they're ready for students.
+

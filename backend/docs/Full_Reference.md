@@ -29,3 +29,6 @@ This document serves as the absolute source of truth for all technical specifica
 - `PUT /api/auth/profile`: Update personal info.
 - `DELETE /api/auth/profile/deactivate`: Deactivate account.
 
+### Quizzes
+- `GET /api/quiz`: List all available quizzes.
+- `GET /api/quiz/:id`: Get detailed quiz info.

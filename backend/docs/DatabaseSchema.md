@@ -26,3 +26,5 @@ Stores quiz definitions and questions.
     - `options`: Array of Strings (for MCQs).
     - `correctAnswer`: String.
     - `explanation`: String.
+    - `points`: Number, default: 5.
+- `timeLimit`: Number (minutes).

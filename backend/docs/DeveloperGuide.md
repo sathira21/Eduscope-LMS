@@ -30,3 +30,6 @@ The project follows a modular structure to separate concerns between the fronten
 
 ## 🔐 Security Best Practices
 
+### Authentication
+- Passwords must be hashed using BCrypt before storing.
+- JWT tokens should have a reasonable expiration time.

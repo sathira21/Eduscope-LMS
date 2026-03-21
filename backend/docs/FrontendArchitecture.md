@@ -21,3 +21,5 @@ Components are organized by their scope and purpose.
 - **Pages/**: View components that map directly to application routes.
 
 ## 🏗 State Management
+
+We use a hybrid approach to manage state:
