@@ -23,3 +23,5 @@ Components are organized by their scope and purpose.
 ## 🏗 State Management
 
 We use a hybrid approach to manage state:
+
+1. **Local State**: `useState` and `useReducer` for component-level UI state.

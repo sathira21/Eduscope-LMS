@@ -33,3 +33,6 @@ The project follows a modular structure to separate concerns between the fronten
 ### Authentication
 - Passwords must be hashed using BCrypt before storing.
 - JWT tokens should have a reasonable expiration time.
+- Always use HTTPS in production.
+
+### Data Validation

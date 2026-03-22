@@ -40,3 +40,6 @@ Create a new quiz.
       {
         "question": "What does HTML stand for?",
         "type": "mcq",
+        "options": ["Hyper Text Markup Language", "High Tech Multi Language"],
+        "correctAnswer": "Hyper Text Markup Language",
+        "points": 5

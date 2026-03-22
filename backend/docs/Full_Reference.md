@@ -32,3 +32,5 @@ This document serves as the absolute source of truth for all technical specifica
 ### Quizzes
 - `GET /api/quiz`: List all available quizzes.
 - `GET /api/quiz/:id`: Get detailed quiz info.
+- `POST /api/quiz`: Create new quiz (Admins/Teachers).
+- `PUT /api/quiz/:id`: Edit existing quiz.

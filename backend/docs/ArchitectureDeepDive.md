@@ -21,3 +21,5 @@ The project is structured as a modular monolith to balance development speed wit
 
 We follow RESTful design principles for all our endpoints.
 
+- **Stateless**: No server-side session state; JWT tokens carry the necessary identity.
+- **HATEOAS (Hypermedia as the Engine of Application State)**: Partial implementation through structured links in JSON responses.

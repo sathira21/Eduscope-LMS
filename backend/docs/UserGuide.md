@@ -26,3 +26,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 - **Questions**: Add varied question types (MCQs, T/F, etc.).
 - **Publishing**: Keep quizzes in "Draft" mode until they're ready for students.
 
+### 2. Monitoring Progress
+- **Class Overview**: See the average score and pass rate for your quizzes.

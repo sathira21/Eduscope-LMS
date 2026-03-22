@@ -29,3 +29,6 @@ This generates the static files in the `/dist` directory.
 ```bash
 cd backend
 npm install
+```
+
+### 3. Configure Environment Variables

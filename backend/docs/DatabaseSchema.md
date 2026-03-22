@@ -28,3 +28,6 @@ Stores quiz definitions and questions.
     - `explanation`: String.
     - `points`: Number, default: 5.
 - `timeLimit`: Number (minutes).
+- `passingScore`: Number (percentage).
+- `isPublished`: Boolean, default: false.
+- `createdBy`: Reference to User.
