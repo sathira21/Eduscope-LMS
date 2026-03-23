@@ -34,3 +34,6 @@ This document serves as the absolute source of truth for all technical specifica
 - `GET /api/quiz/:id`: Get detailed quiz info.
 - `POST /api/quiz`: Create new quiz (Admins/Teachers).
 - `PUT /api/quiz/:id`: Edit existing quiz.
+- `DELETE /api/quiz/:id`: Permanently remove quiz.
+- `PUT /api/quiz/:id/publish`: Toggle visibility.
+- `POST /api/quiz/:id/attempt`: Submit student answers.

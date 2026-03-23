@@ -28,3 +28,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 
 ### 2. Monitoring Progress
 - **Class Overview**: See the average score and pass rate for your quizzes.
+- **Individual Student Reports**: Drill down into specific student attempts.
+- **Engagement Stats**: Identify which materials are most viewed.

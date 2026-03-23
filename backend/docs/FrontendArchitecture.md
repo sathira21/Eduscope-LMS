@@ -25,3 +25,4 @@ Components are organized by their scope and purpose.
 We use a hybrid approach to manage state:
 
 1. **Local State**: `useState` and `useReducer` for component-level UI state.
+2. **Context API**: Global state for user authentication, theme settings, and common notifications.

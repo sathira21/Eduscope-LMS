@@ -36,3 +36,5 @@ The project follows a modular structure to separate concerns between the fronten
 - Always use HTTPS in production.
 
 ### Data Validation
+- Sanitize all user inputs to prevent XSS and SQL/NoSQL injection.
+- Use Mongoose validation schemas for database integrity.

@@ -31,3 +31,5 @@ Stores quiz definitions and questions.
 - `passingScore`: Number (percentage).
 - `isPublished`: Boolean, default: false.
 - `createdBy`: Reference to User.
+
+### 3. QuizAttempts

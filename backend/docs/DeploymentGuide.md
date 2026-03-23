@@ -32,3 +32,5 @@ npm install
 ```
 
 ### 3. Configure Environment Variables
+Ensure all necessary variables are set in the environment:
+- `PORT`: Server listening port.

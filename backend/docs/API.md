@@ -43,3 +43,6 @@ Create a new quiz.
         "options": ["Hyper Text Markup Language", "High Tech Multi Language"],
         "correctAnswer": "Hyper Text Markup Language",
         "points": 5
+      }
+    ],
+    "timeLimit": 30,
