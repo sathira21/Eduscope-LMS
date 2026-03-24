@@ -20,3 +20,5 @@ This document outlines the security measures implemented in the Eduscope LMS and
 
 ## 🔍 Audit Log (March 2026)
 
+| Date | Type | Description | Result |
+| --- | --- | --- | --- |

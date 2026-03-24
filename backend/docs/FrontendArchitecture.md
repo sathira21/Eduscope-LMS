@@ -26,3 +26,5 @@ We use a hybrid approach to manage state:
 
 1. **Local State**: `useState` and `useReducer` for component-level UI state.
 2. **Context API**: Global state for user authentication, theme settings, and common notifications.
+3. **Optimistic UI Updates**: Using hooks to update the UI immediately before waiting for server confirmation for a smoother experience.
+

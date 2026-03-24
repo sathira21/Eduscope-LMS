@@ -46,3 +46,7 @@ Create a new quiz.
       }
     ],
     "timeLimit": 30,
+    "passingScore": 50
+  }
+  ```
+

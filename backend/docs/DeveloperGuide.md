@@ -38,3 +38,6 @@ The project follows a modular structure to separate concerns between the fronten
 ### Data Validation
 - Sanitize all user inputs to prevent XSS and SQL/NoSQL injection.
 - Use Mongoose validation schemas for database integrity.
+
+## 🧪 Testing Guidelines
+

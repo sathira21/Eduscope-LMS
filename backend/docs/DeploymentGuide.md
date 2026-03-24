@@ -34,3 +34,5 @@ npm install
 ### 3. Configure Environment Variables
 Ensure all necessary variables are set in the environment:
 - `PORT`: Server listening port.
+- `MONGO_URI`: Connection string for the database.
+- `JWT_SECRET`: Secret key for signing tokens.

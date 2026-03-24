@@ -33,3 +33,5 @@ Stores quiz definitions and questions.
 - `createdBy`: Reference to User.
 
 ### 3. QuizAttempts
+Stores student results for each quiz attempt.
+- `quiz`: Reference to Quiz.

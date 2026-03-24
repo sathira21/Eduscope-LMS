@@ -37,3 +37,6 @@ This document serves as the absolute source of truth for all technical specifica
 - `DELETE /api/quiz/:id`: Permanently remove quiz.
 - `PUT /api/quiz/:id/publish`: Toggle visibility.
 - `POST /api/quiz/:id/attempt`: Submit student answers.
+- `GET /api/quiz/:id/attempts`: List all attempts for a quiz.
+- `GET /api/quiz/:id/analytics`: Detailed performance metrics.
+- `GET /api/quiz/my-attempts`: List authenticated student's history.

@@ -18,3 +18,5 @@ Our testing strategy follows the standard testing pyramid, prioritizing fast-run
 ### 3. End-to-End (E2E) Testing
 - **Focus**: Testing high-value user flows (e.g., student taking a full quiz).
 - **Tool**: Cypress or Playwright.
+
+## 🧪 Detailed Test Plans
