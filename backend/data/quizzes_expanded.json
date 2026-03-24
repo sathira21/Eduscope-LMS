@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Introduction to Network Security",
+    "description": "Basics of firewalls, encryption, and safe browsing.",
+    "subject": "Cybersecurity",
+    "module": "Networking",
+    "questions": [
+      {
+        "question": "What does SSL stand for?",
+        "type": "mcq",
+        "options": [
+          "Secure Sockets Layer",
+          "System Security Level",
+          "Safe Software License"
+        ],
+        "correctAnswer": "Secure Sockets Layer",
+        "points": 10
+      },
+      {
+        "question": "Is HTTP secure?",
+        "type": "true_false",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "points": 5
+      }
+    ],
+    "timeLimit": 20,
+    "passingScore": 70
+  },
+  {
+    "title": "Advanced Java Programming",
+    "description": "Threads, Generics, and Lambda expressions.",
+    "subject": "Software Engineering",
+    "module": "Java",
+    "questions": [
+      {
+        "question": "Which of these is a functional interface?",
+        "type": "mcq",
+        "options": ["Runnable", "Serializable", "Cloneable"],
+        "correctAnswer": "Runnable",
+        "points": 15
+      }
+    ]
+  },
+  {
+    "title": "Machine Learning Ethics",
+    "description": "Understanding bias, fairness, and transparency in AI.",
+    "subject": "Data Science",
+    "module": "AI",
+    "questions": []
+  }
+]
