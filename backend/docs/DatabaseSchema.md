@@ -35,3 +35,6 @@ Stores quiz definitions and questions.
 ### 3. QuizAttempts
 Stores student results for each quiz attempt.
 - `quiz`: Reference to Quiz.
+- `student`: Reference to User.
+- `answers`: Array of objects.
+    - `questionId`: Reference.

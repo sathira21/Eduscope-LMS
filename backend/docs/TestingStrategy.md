@@ -20,3 +20,4 @@ Our testing strategy follows the standard testing pyramid, prioritizing fast-run
 - **Tool**: Cypress or Playwright.
 
 ## 🧪 Detailed Test Plans
+

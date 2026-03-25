@@ -28,3 +28,5 @@ We use a hybrid approach to manage state:
 2. **Context API**: Global state for user authentication, theme settings, and common notifications.
 3. **Optimistic UI Updates**: Using hooks to update the UI immediately before waiting for server confirmation for a smoother experience.
 
+## 📡 API Integration Layer
+

@@ -27,3 +27,5 @@ We follow RESTful design principles for all our endpoints.
 
 ## 📦 Data Modeling Strategy
 
+Using Mongoose with MongoDB allows us to handle unstructured quiz questions flexibly while maintaining schema integrity for core entities like Users and Attempts.
+

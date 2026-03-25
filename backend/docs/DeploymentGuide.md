@@ -36,3 +36,6 @@ Ensure all necessary variables are set in the environment:
 - `PORT`: Server listening port.
 - `MONGO_URI`: Connection string for the database.
 - `JWT_SECRET`: Secret key for signing tokens.
+
+### 4. Process Management
+We recommend using PM2 to manage the backend process in production.

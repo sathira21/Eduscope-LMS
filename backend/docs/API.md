@@ -50,3 +50,6 @@ Create a new quiz.
   }
   ```
 
+### PUT /api/quiz/:id
+Update an existing quiz.
+- **Roles**: admin, teacher

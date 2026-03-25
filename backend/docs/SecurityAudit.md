@@ -22,3 +22,4 @@ This document outlines the security measures implemented in the Eduscope LMS and
 
 | Date | Type | Description | Result |
 | --- | --- | --- | --- |
+| 2026-03-08 | System | Initial security baseline established. | Passed |

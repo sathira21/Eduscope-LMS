@@ -41,3 +41,6 @@ The project follows a modular structure to separate concerns between the fronten
 
 ## 🧪 Testing Guidelines
 
+- **Unit Tests**: Test individual functions and handlers.
+- **Integration Tests**: Test the interaction between several modules.
+- **E2E Tests**: Use Cypress or Playwright for critical user flows.

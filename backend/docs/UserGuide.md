@@ -32,3 +32,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 - **Engagement Stats**: Identify which materials are most viewed.
 
 ## 🛠 For Administrators
+
+### 1. User Management

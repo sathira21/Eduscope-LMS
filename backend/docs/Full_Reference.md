@@ -40,3 +40,5 @@ This document serves as the absolute source of truth for all technical specifica
 - `GET /api/quiz/:id/attempts`: List all attempts for a quiz.
 - `GET /api/quiz/:id/analytics`: Detailed performance metrics.
 - `GET /api/quiz/my-attempts`: List authenticated student's history.
+
+### Progress
