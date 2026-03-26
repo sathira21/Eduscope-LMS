@@ -30,3 +30,5 @@ We use a hybrid approach to manage state:
 
 ## 📡 API Integration Layer
 
+All server communication is abstracted through a dedicated service layer.
+

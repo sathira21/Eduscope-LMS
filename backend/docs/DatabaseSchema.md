@@ -38,3 +38,5 @@ Stores student results for each quiz attempt.
 - `student`: Reference to User.
 - `answers`: Array of objects.
     - `questionId`: Reference.
+    - `answer`: String.
+    - `isCorrect`: Boolean.

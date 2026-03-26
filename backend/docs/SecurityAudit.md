@@ -23,3 +23,5 @@ This document outlines the security measures implemented in the Eduscope LMS and
 | Date | Type | Description | Result |
 | --- | --- | --- | --- |
 | 2026-03-08 | System | Initial security baseline established. | Passed |
+| 2026-03-15 | Auth | Penetration test on login endpoint. | Passed |
+| 2026-03-22 | Data | Review of encryption at rest for PII. | Optimizing... |

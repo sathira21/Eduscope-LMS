@@ -42,3 +42,6 @@ This document serves as the absolute source of truth for all technical specifica
 - `GET /api/quiz/my-attempts`: List authenticated student's history.
 
 ### Progress
+- `POST /api/progress/start/:materialId`: Initialize tracking.
+- `PUT /api/progress/heartbeat/:materialId`: Heartbeat update.
+- `PUT /api/progress/end/:materialId`: Close session.
