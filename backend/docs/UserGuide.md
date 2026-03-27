@@ -36,3 +36,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 ### 1. User Management
 - **Approving Teachers**: Review and approve new teacher accounts.
 - **System Settings**: Configure global settings like site name and logo.
+
+### 2. System Analytics

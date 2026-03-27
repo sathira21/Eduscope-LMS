@@ -56,3 +56,6 @@ Update an existing quiz.
 
 ### DELETE /api/quiz/:id
 Delete a quiz.
+- **Roles**: admin, teacher
+
+### POST /api/quiz/:id/attempt

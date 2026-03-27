@@ -41,3 +41,5 @@ Ensure all necessary variables are set in the environment:
 We recommend using PM2 to manage the backend process in production.
 ```bash
 pm2 start server.js --name eduscope-backend
+```
+

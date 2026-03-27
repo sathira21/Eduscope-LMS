@@ -22,3 +22,5 @@ Our testing strategy follows the standard testing pyramid, prioritizing fast-run
 ## 🧪 Detailed Test Plans
 
 ### Quiz Grading Engine
+Since grading is the most critical function, we have extensive tests for every possible edge case:
+- Partial points for multi-select questions.

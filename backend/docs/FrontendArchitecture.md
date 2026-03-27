@@ -32,3 +32,5 @@ We use a hybrid approach to manage state:
 
 All server communication is abstracted through a dedicated service layer.
 
+```javascript
+import axios from 'axios';

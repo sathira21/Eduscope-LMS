@@ -30,3 +30,5 @@ We follow RESTful design principles for all our endpoints.
 Using Mongoose with MongoDB allows us to handle unstructured quiz questions flexibly while maintaining schema integrity for core entities like Users and Attempts.
 
 ```javascript
+const { Schema, model } = require('mongoose');
+

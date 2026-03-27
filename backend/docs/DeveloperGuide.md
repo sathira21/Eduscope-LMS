@@ -46,3 +46,6 @@ The project follows a modular structure to separate concerns between the fronten
 - **E2E Tests**: Use Cypress or Playwright for critical user flows.
 
 ## 📜 Coding Style
+
+- Use `camelCase` for variable and function names.
+- Use `PascalCase` for React components and Classes.

@@ -40,3 +40,5 @@ Stores student results for each quiz attempt.
     - `questionId`: Reference.
     - `answer`: String.
     - `isCorrect`: Boolean.
+    - `pointsEarned`: Number.
+- `score`: Number.

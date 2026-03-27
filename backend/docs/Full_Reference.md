@@ -45,3 +45,5 @@ This document serves as the absolute source of truth for all technical specifica
 - `POST /api/progress/start/:materialId`: Initialize tracking.
 - `PUT /api/progress/heartbeat/:materialId`: Heartbeat update.
 - `PUT /api/progress/end/:materialId`: Close session.
+- `PUT /api/progress/complete/:materialId`: Manual completion.
+- `GET /api/progress/my`: Student summary.
