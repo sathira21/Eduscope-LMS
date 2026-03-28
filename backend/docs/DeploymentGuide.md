@@ -43,3 +43,6 @@ We recommend using PM2 to manage the backend process in production.
 pm2 start server.js --name eduscope-backend
 ```
 
+## 🌐 Serving the Application
+
+### Using Nginx as a Reverse Proxy

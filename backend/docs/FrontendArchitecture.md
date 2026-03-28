@@ -34,3 +34,5 @@ All server communication is abstracted through a dedicated service layer.
 
 ```javascript
 import axios from 'axios';
+
+const api = axios.create({

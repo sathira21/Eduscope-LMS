@@ -59,3 +59,6 @@ Delete a quiz.
 - **Roles**: admin, teacher
 
 ### POST /api/quiz/:id/attempt
+Submit a quiz attempt.
+- **Roles**: student
+- **Body**: `{ answers: [{ questionId, answer }], startedAt, timeSpent }`

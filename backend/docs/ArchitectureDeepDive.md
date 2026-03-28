@@ -32,3 +32,5 @@ Using Mongoose with MongoDB allows us to handle unstructured quiz questions flex
 ```javascript
 const { Schema, model } = require('mongoose');
 
+const BaseSchema = new Schema({
+  createdAt: { type: Date, default: Date.now },

@@ -47,3 +47,6 @@ This document serves as the absolute source of truth for all technical specifica
 - `PUT /api/progress/end/:materialId`: Close session.
 - `PUT /api/progress/complete/:materialId`: Manual completion.
 - `GET /api/progress/my`: Student summary.
+- `GET /api/progress/analytics/overview`: Admin dashboard stats.
+- `GET /api/progress/analytics/students`: Student-wise stats.
+- `GET /api/progress/analytics/materials`: Content-wise stats.

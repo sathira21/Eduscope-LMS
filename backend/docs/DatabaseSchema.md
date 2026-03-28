@@ -42,3 +42,5 @@ Stores student results for each quiz attempt.
     - `isCorrect`: Boolean.
     - `pointsEarned`: Number.
 - `score`: Number.
+- `totalPoints`: Number.
+- `percentage`: Number.

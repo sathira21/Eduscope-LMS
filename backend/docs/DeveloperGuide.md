@@ -49,3 +49,6 @@ The project follows a modular structure to separate concerns between the fronten
 
 - Use `camelCase` for variable and function names.
 - Use `PascalCase` for React components and Classes.
+- Use `UPPER_CASE` for constants and environment variables.
+
+---

@@ -38,3 +38,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 - **System Settings**: Configure global settings like site name and logo.
 
 ### 2. System Analytics
+- **System-wide Reports**: Export comprehensive performance data as CSV/JSON.
+- **Activity Logs**: Monitor system actions and security events.

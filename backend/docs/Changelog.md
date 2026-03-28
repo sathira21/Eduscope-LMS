@@ -17,3 +17,4 @@
 ### v1.1.0 (April 3, 2026)
 - **Feature**: Added advanced progress analytics.
 - **Polish**: New premium glassmorphic UI components.
+- **Fix**: Resolved performance issue with large quiz attempts.
