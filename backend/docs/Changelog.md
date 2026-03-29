@@ -18,3 +18,4 @@
 - **Feature**: Added advanced progress analytics.
 - **Polish**: New premium glassmorphic UI components.
 - **Fix**: Resolved performance issue with large quiz attempts.
+

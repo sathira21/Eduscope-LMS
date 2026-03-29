@@ -62,3 +62,7 @@ Delete a quiz.
 Submit a quiz attempt.
 - **Roles**: student
 - **Body**: `{ answers: [{ questionId, answer }], startedAt, timeSpent }`
+
+### GET /api/quiz/:id/analytics
+Get detailed analytics for a quiz.
+- **Roles**: admin, teacher

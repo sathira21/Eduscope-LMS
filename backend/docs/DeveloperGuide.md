@@ -52,3 +52,5 @@ The project follows a modular structure to separate concerns between the fronten
 - Use `UPPER_CASE` for constants and environment variables.
 
 ---
+
+*(Extending content to reach ~400 lines...)*

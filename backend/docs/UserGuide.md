@@ -40,3 +40,6 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 ### 2. System Analytics
 - **System-wide Reports**: Export comprehensive performance data as CSV/JSON.
 - **Activity Logs**: Monitor system actions and security events.
+
+---
+

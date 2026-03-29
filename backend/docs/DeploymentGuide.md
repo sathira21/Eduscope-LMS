@@ -46,3 +46,5 @@ pm2 start server.js --name eduscope-backend
 ## 🌐 Serving the Application
 
 ### Using Nginx as a Reverse Proxy
+Example configuration:
+```nginx

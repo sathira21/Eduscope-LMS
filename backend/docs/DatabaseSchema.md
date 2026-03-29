@@ -44,3 +44,6 @@ Stores student results for each quiz attempt.
 - `score`: Number.
 - `totalPoints`: Number.
 - `percentage`: Number.
+- `passed`: Boolean.
+- `startedAt`: Date.
+- `submittedAt`: Date.

@@ -28,3 +28,4 @@ This document outlines the security measures implemented in the Eduscope LMS and
 
 ## 🚀 Recommendations
 - Implement Multi-Factor Authentication (MFA) for Admin roles.
+- Set up automated daily vulnerability scans.
