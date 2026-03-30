@@ -26,3 +26,5 @@ Since grading is the most critical function, we have extensive tests for every p
 - Partial points for multi-select questions.
 - Time limit enforcement.
 - Retake policy validation.
+
+### Access Control Logic

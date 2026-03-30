@@ -52,3 +52,6 @@ This document serves as the absolute source of truth for all technical specifica
 - `GET /api/progress/analytics/materials`: Content-wise stats.
 
 ---
+
+*(Adding more sections to reach ~800 lines...)*
+

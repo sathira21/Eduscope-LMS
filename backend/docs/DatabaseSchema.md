@@ -47,3 +47,5 @@ Stores student results for each quiz attempt.
 - `passed`: Boolean.
 - `startedAt`: Date.
 - `submittedAt`: Date.
+- `timeSpent`: Number (seconds).
+

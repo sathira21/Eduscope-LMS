@@ -48,3 +48,6 @@ pm2 start server.js --name eduscope-backend
 ### Using Nginx as a Reverse Proxy
 Example configuration:
 ```nginx
+server {
+    listen 80;
+    server_name lms.eduscope.lk;

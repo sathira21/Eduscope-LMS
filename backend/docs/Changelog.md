@@ -19,3 +19,4 @@
 - **Polish**: New premium glassmorphic UI components.
 - **Fix**: Resolved performance issue with large quiz attempts.
 
+### v1.0.0 (March 25, 2026)

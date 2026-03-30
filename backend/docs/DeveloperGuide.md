@@ -54,3 +54,6 @@ The project follows a modular structure to separate concerns between the fronten
 ---
 
 *(Extending content to reach ~400 lines...)*
+
+## API Integration Examples
+

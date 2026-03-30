@@ -66,3 +66,6 @@ Submit a quiz attempt.
 ### GET /api/quiz/:id/analytics
 Get detailed analytics for a quiz.
 - **Roles**: admin, teacher
+
+---
+
