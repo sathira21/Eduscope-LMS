@@ -55,3 +55,6 @@ This document serves as the absolute source of truth for all technical specifica
 
 *(Adding more sections to reach ~800 lines...)*
 
+## 🔐 Security Protocols
+- **CORS Policy**: Restrictive list of origins allowed in production.
+- **Rate Limiting**: 100 requests per 15 minutes for API endpoints.

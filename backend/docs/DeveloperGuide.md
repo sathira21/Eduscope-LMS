@@ -57,3 +57,6 @@ The project follows a modular structure to separate concerns between the fronten
 
 ## API Integration Examples
 
+### Example: Creating a Quiz Programmatically
+```javascript
+const axios = require('axios');

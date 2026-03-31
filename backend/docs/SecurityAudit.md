@@ -31,3 +31,4 @@ This document outlines the security measures implemented in the Eduscope LMS and
 - Set up automated daily vulnerability scans.
 - Enable CORS only for trusted domains in production.
 
+---

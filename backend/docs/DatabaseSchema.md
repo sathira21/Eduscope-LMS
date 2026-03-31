@@ -49,3 +49,5 @@ Stores student results for each quiz attempt.
 - `submittedAt`: Date.
 - `timeSpent`: Number (seconds).
 
+### 4. ContentProgress
+Tracks student engagement with course materials.

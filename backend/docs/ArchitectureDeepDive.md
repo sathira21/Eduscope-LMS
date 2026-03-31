@@ -37,3 +37,5 @@ const BaseSchema = new Schema({
   updatedAt: { type: Date, default: Date.now }
 });
 
+// Middleware for automatic timestamps
+BaseSchema.pre('save', function(next) {

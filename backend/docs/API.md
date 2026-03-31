@@ -69,3 +69,6 @@ Get detailed analytics for a quiz.
 
 ---
 
+## Progress Tracking
+
+### POST /api/progress/start/:materialId

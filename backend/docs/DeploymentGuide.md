@@ -51,3 +51,5 @@ Example configuration:
 server {
     listen 80;
     server_name lms.eduscope.lk;
+
+    location / {

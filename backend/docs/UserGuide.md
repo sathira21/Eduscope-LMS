@@ -45,3 +45,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 
 *(Extending content...)*
 
+## Frequently Asked Questions (FAQ)
+
