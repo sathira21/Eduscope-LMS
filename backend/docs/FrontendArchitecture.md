@@ -41,3 +41,5 @@ const api = axios.create({
 });
 
 export const getQuizzes = async (options) => {
+  const response = await api.get('/quizzes', { params: options });
+  return response.data;

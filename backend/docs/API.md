@@ -72,3 +72,6 @@ Get detailed analytics for a quiz.
 ## Progress Tracking
 
 ### POST /api/progress/start/:materialId
+Start tracking progress for a material.
+- **Roles**: student
+

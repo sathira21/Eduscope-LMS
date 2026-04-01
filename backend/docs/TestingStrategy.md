@@ -29,3 +29,4 @@ Since grading is the most critical function, we have extensive tests for every p
 
 ### Access Control Logic
 We test every route for both authenticated and unauthenticated access, ensuring that RBAC works correctly across every endpoint.
+

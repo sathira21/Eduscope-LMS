@@ -51,3 +51,6 @@ Stores student results for each quiz attempt.
 
 ### 4. ContentProgress
 Tracks student engagement with course materials.
+- `student`: Reference to User.
+- `material`: Reference to Material.
+- `course`: Reference to Course.

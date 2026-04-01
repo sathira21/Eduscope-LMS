@@ -53,3 +53,5 @@ server {
     server_name lms.eduscope.lk;
 
     location / {
+        root /path/to/frontend/dist;
+        try_files $uri /index.html;

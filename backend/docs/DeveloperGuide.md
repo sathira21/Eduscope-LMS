@@ -60,3 +60,5 @@ The project follows a modular structure to separate concerns between the fronten
 ### Example: Creating a Quiz Programmatically
 ```javascript
 const axios = require('axios');
+const token = 'your-jwt-token';
+

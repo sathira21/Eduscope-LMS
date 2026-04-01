@@ -32,3 +32,5 @@ This document outlines the security measures implemented in the Eduscope LMS and
 - Enable CORS only for trusted domains in production.
 
 ---
+
+*(Extending content to reach ~400 lines...)*

@@ -58,3 +58,5 @@ This document serves as the absolute source of truth for all technical specifica
 ## 🔐 Security Protocols
 - **CORS Policy**: Restrictive list of origins allowed in production.
 - **Rate Limiting**: 100 requests per 15 minutes for API endpoints.
+- **Data Encryption**: RSA-4096 for asymmetric keys, AES-256-CBC for symmetric storage.
+

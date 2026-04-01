@@ -21,3 +21,4 @@
 
 ### v1.0.0 (March 25, 2026)
 - **Initial Release**: Core quiz and progress tracking features deployed.
+
