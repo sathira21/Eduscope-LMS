@@ -62,3 +62,6 @@ The project follows a modular structure to separate concerns between the fronten
 const axios = require('axios');
 const token = 'your-jwt-token';
 
+const createQuiz = async () => {
+  const res = await axios.post('/api/quiz', {
+    title: 'Example Quiz',

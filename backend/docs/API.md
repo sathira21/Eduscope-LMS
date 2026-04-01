@@ -75,3 +75,6 @@ Get detailed analytics for a quiz.
 Start tracking progress for a material.
 - **Roles**: student
 
+### PUT /api/progress/heartbeat/:materialId
+Update time spent on a material (periodic).
+- **Roles**: student

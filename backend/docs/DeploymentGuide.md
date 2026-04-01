@@ -55,3 +55,6 @@ server {
     location / {
         root /path/to/frontend/dist;
         try_files $uri /index.html;
+    }
+
+    location /api {

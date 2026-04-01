@@ -49,3 +49,5 @@ Welcome to Eduscope LMS! This guide will help you navigate through the platform 
 
 ### Q: I forgot my password. What should I do?
 A: Use the "Forgot Password" link on the login page to reset it.
+
+### Q: Can I retake a quiz?

@@ -41,3 +41,5 @@ const BaseSchema = new Schema({
 BaseSchema.pre('save', function(next) {
   this.updatedAt = Date.now();
   next();
+});
+```

@@ -54,3 +54,5 @@ Tracks student engagement with course materials.
 - `student`: Reference to User.
 - `material`: Reference to Material.
 - `course`: Reference to Course.
+- `status`: String, enum: ['not_started', 'in_progress', 'completed'].
+- `viewCount`: Number.
