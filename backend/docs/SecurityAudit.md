@@ -37,3 +37,4 @@ This document outlines the security measures implemented in the Eduscope LMS and
 
 ## Encryption Details
 Our system uses AES-256 for sensitive data storage and TLS 1.3 for all data in transit.
+

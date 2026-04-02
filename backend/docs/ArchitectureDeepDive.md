@@ -44,3 +44,5 @@ BaseSchema.pre('save', function(next) {
 });
 ```
 
+---
+

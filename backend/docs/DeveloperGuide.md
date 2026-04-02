@@ -68,3 +68,5 @@ const createQuiz = async () => {
     // ...
   }, {
     headers: { Authorization: `Bearer ${token}` }
+  });
+  return res.data;

@@ -47,3 +47,5 @@ export const getQuizzes = async (options) => {
 ```
 
 ---
+
+*(Extending content...)*

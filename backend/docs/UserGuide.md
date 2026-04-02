@@ -53,3 +53,5 @@ A: Use the "Forgot Password" link on the login page to reset it.
 ### Q: Can I retake a quiz?
 A: This depends on the settings chosen by the teacher for that specific quiz.
 
+### Q: Which browsers are supported?
+A: Eduscope LMS works best on modern browsers like Chrome, Firefox, Safari, and Edge.

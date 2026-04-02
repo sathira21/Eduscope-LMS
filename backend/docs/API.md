@@ -82,3 +82,6 @@ Update time spent on a material (periodic).
 ### PUT /api/progress/complete/:materialId
 Mark a material as completed.
 - **Roles**: student
+
+### GET /api/progress/my
+Get current student's progress summary.

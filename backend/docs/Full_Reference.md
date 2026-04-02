@@ -65,3 +65,6 @@ This document serves as the absolute source of truth for all technical specifica
 ### Local Development
 - MongoDB: `localhost:27017`
 - Node: `localhost:5000`
+- React: `localhost:5173`
+
+### Production

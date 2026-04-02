@@ -58,3 +58,6 @@ Tracks student engagement with course materials.
 - `viewCount`: Number.
 - `totalTimeSpent`: Number.
 - `sessions`: Array of session objects.
+
+---
+
