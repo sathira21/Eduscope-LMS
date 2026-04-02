@@ -58,3 +58,5 @@ server {
     }
 
     location /api {
+        proxy_pass http://localhost:5000;
+        proxy_set_header Host $host;

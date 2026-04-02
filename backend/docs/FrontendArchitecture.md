@@ -45,3 +45,5 @@ export const getQuizzes = async (options) => {
   return response.data;
 };
 ```
+
+---

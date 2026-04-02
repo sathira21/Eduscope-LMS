@@ -78,3 +78,7 @@ Start tracking progress for a material.
 ### PUT /api/progress/heartbeat/:materialId
 Update time spent on a material (periodic).
 - **Roles**: student
+
+### PUT /api/progress/complete/:materialId
+Mark a material as completed.
+- **Roles**: student

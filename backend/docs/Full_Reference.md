@@ -63,3 +63,5 @@ This document serves as the absolute source of truth for all technical specifica
 ## 📦 Deployment Environments
 
 ### Local Development
+- MongoDB: `localhost:27017`
+- Node: `localhost:5000`

@@ -56,3 +56,5 @@ Tracks student engagement with course materials.
 - `course`: Reference to Course.
 - `status`: String, enum: ['not_started', 'in_progress', 'completed'].
 - `viewCount`: Number.
+- `totalTimeSpent`: Number.
+- `sessions`: Array of session objects.

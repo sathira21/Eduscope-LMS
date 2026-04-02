@@ -65,3 +65,6 @@ const token = 'your-jwt-token';
 const createQuiz = async () => {
   const res = await axios.post('/api/quiz', {
     title: 'Example Quiz',
+    // ...
+  }, {
+    headers: { Authorization: `Bearer ${token}` }
