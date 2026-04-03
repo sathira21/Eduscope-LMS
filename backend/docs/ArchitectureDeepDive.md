@@ -46,3 +46,5 @@ BaseSchema.pre('save', function(next) {
 
 ---
 
+*(Extending content...)*
+

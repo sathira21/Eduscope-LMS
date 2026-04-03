@@ -25,3 +25,4 @@
 *(Adding more entries to reach ~400 lines...)*
 
 - **v0.9.0**: Beta testing with student focus group.
+- **v0.8.0**: Integration of Mongoose models and Auth flow.

@@ -68,3 +68,5 @@ This document serves as the absolute source of truth for all technical specifica
 - React: `localhost:5173`
 
 ### Production
+- MongoDB: Atlas Shared Cluster
+- Hosting: AWS EC2 / Vercel

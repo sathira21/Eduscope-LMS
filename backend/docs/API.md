@@ -85,3 +85,6 @@ Mark a material as completed.
 
 ### GET /api/progress/my
 Get current student's progress summary.
+- **Roles**: student
+
+### GET /api/progress/analytics/overview

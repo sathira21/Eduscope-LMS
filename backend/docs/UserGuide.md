@@ -55,3 +55,5 @@ A: This depends on the settings chosen by the teacher for that specific quiz.
 
 ### Q: Which browsers are supported?
 A: Eduscope LMS works best on modern browsers like Chrome, Firefox, Safari, and Edge.
+
+### Q: How do I contact support?
