@@ -70,3 +70,6 @@ This document serves as the absolute source of truth for all technical specifica
 ### Production
 - MongoDB: Atlas Shared Cluster
 - Hosting: AWS EC2 / Vercel
+- CDN: CloudFront
+
+...

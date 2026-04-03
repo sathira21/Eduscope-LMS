@@ -51,3 +51,5 @@ export const getQuizzes = async (options) => {
 *(Extending content...)*
 
 ## Dynamic Layout Engine
+Our dashboard uses a metadata-driven approach to render different widgets based on the user's role.
+

@@ -88,3 +88,6 @@ Get current student's progress summary.
 - **Roles**: student
 
 ### GET /api/progress/analytics/overview
+Get overall engagement analytics.
+- **Roles**: admin, teacher
+

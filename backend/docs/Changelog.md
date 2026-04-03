@@ -26,3 +26,4 @@
 
 - **v0.9.0**: Beta testing with student focus group.
 - **v0.8.0**: Integration of Mongoose models and Auth flow.
+- **v0.7.0**: Frontend scaffolding with Vite.

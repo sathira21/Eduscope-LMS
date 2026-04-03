@@ -48,3 +48,5 @@ BaseSchema.pre('save', function(next) {
 
 *(Extending content...)*
 
+## Performance Optimizations
+- **Query Indexing**: We use compound indexes for complex queries involving multiple fields like `student_id` and `submitted_at`.

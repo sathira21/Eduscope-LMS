@@ -63,3 +63,5 @@ Tracks student engagement with course materials.
 
 *(Extending content...)*
 
+## Indexing Strategy
+- `User.email`: Unique index for fast lookups during login.

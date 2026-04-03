@@ -40,3 +40,4 @@ Our system uses AES-256 for sensitive data storage and TLS 1.3 for all data in t
 
 ## Incident Response Plan
 In case of a suspected breach:
+1. Revoke all active JWT tokens.

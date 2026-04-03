@@ -73,3 +73,6 @@ const createQuiz = async () => {
 };
 ```
 
+## Troubleshooting Common Issues
+
+### Issue: MongoDB Connection Failure

@@ -36,3 +36,4 @@ We test every route for both authenticated and unauthenticated access, ensuring 
 
 ## CI/CD Integration
 Testing is integrated into our GitHub Actions pipeline. Pull requests cannot be merged until all tests pass.
+
